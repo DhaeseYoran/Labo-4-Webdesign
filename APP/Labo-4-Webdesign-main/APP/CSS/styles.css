@@ -1,0 +1,80 @@
+#header {
+    background-color: dimgrey;
+    padding: 10px;
+    font-size: 10px;
+    text-align: left;
+}
+#left{
+    background-color: grey;
+    height: 595px;
+    width: 120px;
+    float: left;
+    padding: 10px;
+}
+#inhoud{
+    float: left;
+    width: 50%;
+    padding: 10px 0 0 15px;
+}
+
+#footer{
+    background-color: dimgrey;
+    padding: 14px;
+    text-align: center;
+    font-size: 20px;
+    clear: both;
+}
+#vakken{
+    padding-left: 30px;
+    font-size:100px ;
+}
+a:link {
+    color: turquoise;
+    text-decoration: none;
+  }
+  a:visited {
+    color: red;
+    text-decoration: none;
+  }
+  a:active {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  table, th, td {
+    border:1px solid black;
+    border-collapse: collapse;
+  }
+  td{
+    text-align: center;
+  }
+  #Wiskunde{
+    background-color:lightblue ;
+  }
+  #LO{
+    background-color:lightpink ;
+  }
+  #IoT{
+    background-color: lightgreen ;
+  }
+  #Aard{
+    background-color:beige ;
+  }
+  #Empty{
+    background-color:black ;
+  }
+  #Frans{
+    background-color:lightskyblue ;
+  }
+  #Ned{
+    background-color: coral ;
+  }
+  #NCZ{
+    background-color:lightsteelblue ;
+  }
+  #Engels{
+    background-color:lightgoldenrodyellow ;
+  }
+  #Ges{
+    background-color:lightgoldenrodyellow ;
+  }
